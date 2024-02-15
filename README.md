@@ -1,4 +1,4 @@
-# setup-react-with-vite
+# Setup React With Vite
 ReactJS is a JavaScript library developed by Facebook for building interfaces. It has gained widespread adoption owing to its declarative approach and the use of components. Components manage their own state and can be composed to easily build complex user interfaces. This lab is designed to build your proficiency with ReactJS starting from setting up a ReactJS web application and gradually building upon it to develop a functioning web application involving multiple views and ReactJS components. The lab environment provides you with a Visual Studio Code development environment so you can gain experience with one of the most popular tools for web application development as you progress through the lab.
 
 ### Learning Objectives
