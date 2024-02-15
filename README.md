@@ -32,7 +32,7 @@ Vite eliminates the need for a bundler during development by using native ES mod
 
 2. You will see a message asking to install the latest version of Create Vite. Key in `Y` for yes. 
 
-3. Next, name the project. Change the default value of `viteproject` this to `calabs`. 
+3. Next, name the project. Change the default value of `viteproject` this to `calab`. 
 
 4. You will be propted with a drop-down menu. Select `React`. 
 
@@ -40,7 +40,7 @@ Vite eliminates the need for a bundler during development by using native ES mod
 
 6. The terminal now has a message suggesting you to do the following:
     ~~~~~~~
-    cd calabs
+    cd calab
     npm install
     npm run dev
     ~~~~~~~
